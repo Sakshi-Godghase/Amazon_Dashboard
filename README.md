@@ -1,3 +1,4 @@
+
 # Amazon_Dashboard
 Power BI, Python, Amazon Datasets
 
@@ -45,3 +46,5 @@ AMAZON Analysis Dashboard
 The User can search according to the genre of the movies, or TV show (e.g., Adventure, Documentation)
 The Dashboard will provide an interactive interface of the list according to the user's choice of genre
 The Dashboard will show Show Duration, Yearly Release, Viewer Rating, Genre, List of shows 
+
+<img width="620" alt="Screenshot 2024-10-14 223347" src="https://github.com/user-attachments/assets/490d84d7-2368-439f-84af-a8f8e781f572">
